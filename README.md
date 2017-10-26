@@ -4,6 +4,22 @@ g00179039@gmit.ie
 This repository contains the soloutions to a Problem [sheet](https://emerging-technologies.github.io/problems/jupyter.html) for my Forth Year Emerging technologies Module.
 
 ## How To Use this Repository?
+This problem sheet was completed using Jupyter Notebook. The Jupyter Notebook is an open-source web application that allows you to create and share documents that contain live code, equations, visualizations and narrative text. Uses include: data cleaning and transformation, numerical simulation, statistical modeling, data visualization, machine learning, and much more. You can try out the notebook on their website or click [here](https://try.jupyter.org/).  
+
+To install Jupyter click [here](http://jupyter.org/install.html) for full instructions.
+
+You can view the notebook in this repository but you cannot interact with it. To view the notebook click [here](https://github.com/moranpatrick/Jupyter-Pyplot-Numpy-problems/blob/master/Jupyter%2C%20Pyplot%20and%20Numpy.ipynb).
+
+## Running your own Notebook
+Step 1: Open the notebook in this repository.  
+Step 2: Click Raw. (Its On the right)  
+Step 3: Right Click somewhere over the text and click "Save as"  
+Step 4: Remove the .txt extension from the end. Make sure the file is saved as .ipynb  
+Step 5: Open a command prompt where the file you downloaded is saved.  
+Step 6: Then type  
+>\> jupyter notebook  
+
+Step 7: This will open the notebook at the directory level in your browser. Click on the notebook you saved. (Jupyter, Pyplot and Numpy.ipynb) and your good to go.
 
 ## Problem Sheet
 These problems relate to Jupyter, numpy, and pyplot. We will use the famous iris data set. 
